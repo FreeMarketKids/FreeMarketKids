@@ -8,7 +8,7 @@
   
 - ⚡ Fun fact: We also have a Lightning game (CHANNEL UP), a seed phrase game (BIP39), and others in the development pipeline.
   
-- 📫 How to reach me:  scott@freemarketkids.com
+- 📫 How to reach me:  scott@fosefoundation.org
 - 😄 Happy Hodling!
   
 
